@@ -1,0 +1,26 @@
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.foto-logo {
+  max-width: 200px;
+}
+
+@media (max-width: 769px) {
+  .foto-logo {
+    width: 160px;
+  }
+}
+
+@media (max-width: 426px) {
+  .foto-logo {
+    width: 140px;
+  }
+}
+
+@media (max-width: 376px) {
+  .foto-logo {
+    width: 120px;
+  }
+}

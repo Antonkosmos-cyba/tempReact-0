@@ -6,6 +6,7 @@ import { Route, Routes, BrowserRouter } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./index.css";
 import Heder from "./components/navbar/Navbar";
+import Footer from "./components/footer/Footer.jsx";
 import Liza from "./components/pages/liza/Liza.jsx";
 import Vaina from "./components/pages/vaina/Vaina.jsx";
 import Main from "./components/pages/main/Main";
@@ -20,6 +21,7 @@ function App() {
           <Route path="/Liza" element={<Liza />}></Route>
           <Route path="/vaina" element={<Vaina />}></Route>
         </Routes>
+        <Footer />
       </BrowserRouter>
     </>
   );
