@@ -1,11 +1,15 @@
 import React from "react";
 import "./main.css";
 import Ram from "./horizontally-centered-vertical-decoration.png";
+import Vid from "./na1.mp4";
 
 function Main() {
   return (
     <>
       <div class="body">
+        <div className="fon">
+          <video autoPlay muted loop src={Vid} alt=""></video>
+        </div>
         <div class="outer-border">
           <div class="mid-border">
             <div class="inner-border">
