@@ -2,6 +2,7 @@
   position: absolute;
   z-index: -1;
   width: 100%;
+  filter: blur(10px);
 }
 
 video {
@@ -13,12 +14,13 @@ p {
   margin-bottom: 1.5em;
   font-size: 40px;
   /* text-transform: uppercase; */
-  background: linear-gradient(45deg, #37d637 25%, #b515bd 35%, #37d63c);
+  background: linear-gradient(45deg, #fff 25%, #fff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   /* color: #0B2349; */
   text-align: center;
-  font-family: "old";
+  font-family: "EFN";
+  text-shadow: #0830de 2px 1px;
 }
 
 @media (max-width: 770px) {
