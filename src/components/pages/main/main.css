@@ -23,6 +23,10 @@ p {
   text-shadow: #0830de 2px 1px;
 }
 
+.p {
+  border-bottom: dotted 3px red;
+}
+
 @media (max-width: 770px) {
   p {
     font-size: 36px;

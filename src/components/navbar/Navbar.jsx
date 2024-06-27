@@ -6,7 +6,7 @@ import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import { CustLink } from "../Customlink";
-import logo from "./rings1.png";
+import logo from "./plyazh.png";
 
 function Heder() {
   return (
@@ -25,12 +25,12 @@ function Heder() {
             </Nav.Link>
             <Nav.Link>
               <CustLink to="/vaina" className="no-underline text-h">
-                Ваня
+                Аквапарки
               </CustLink>
             </Nav.Link>
             <Nav.Link>
               <CustLink to="/liza" className="no-underline text-h">
-                Лиза
+                Сравнение
               </CustLink>
             </Nav.Link>
           </Nav>
