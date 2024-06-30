@@ -10,7 +10,7 @@ function Main() {
         <div className="fon">
           <video autoPlay muted loop src={Vid} alt=""></video>
         </div>
-        <div class="outer-border">
+        <div class="outer-border mass">
           <div class="mid-border">
             <div class="inner-border">
               <img class="vertical-decoration top" src={Ram} alt=""></img>
