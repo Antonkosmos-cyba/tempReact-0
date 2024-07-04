@@ -9,7 +9,10 @@ import Heder from "./components/navbar/Navbar";
 import Footer from "./components/footer/Footer.jsx";
 import Liza from "./components/pages/liza/Liza.jsx";
 import Vaina from "./components/pages/vaina/Vaina.jsx";
+
 import Main from "./components/pages/main/Main";
+
+import Resume from "./components/pages/resume/Resume.jsx";
 
 function App() {
   return (
@@ -20,6 +23,7 @@ function App() {
           <Route exact path="/" element={<Main />}></Route>
           <Route path="/Liza" element={<Liza />}></Route>
           <Route path="/vaina" element={<Vaina />}></Route>
+          <Route path="/resume" element={<Resume />}></Route>
         </Routes>
         <Footer />
       </BrowserRouter>
