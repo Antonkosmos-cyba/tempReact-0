@@ -2,13 +2,13 @@ import React from "react";
 import "./liza.css";
 
 import Carousel from "react-bootstrap/Carousel";
-import Image1 from "./b1.jpg";
-import Image2 from "./b2.jpg";
-import Image3 from "./b3.jpg";
-import Image4 from "./b4.jpg";
-import Image5 from "./b5.jpg";
-import Image6 from "./b6.jpg";
-import Image7 from "./b7.jpg";
+import Image1 from "./b1.1.jpg";
+import Image2 from "./b2.2.jpg";
+import Image3 from "./b3.3.jpg";
+import Image4 from "./b4.4.jpg";
+import Image5 from "./b5.5.jpg";
+import Image6 from "./b6.6.jpg";
+import Image7 from "./b7.7.jpg";
 
 function Liza() {
   return (
