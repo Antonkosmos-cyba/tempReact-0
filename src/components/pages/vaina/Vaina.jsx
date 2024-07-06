@@ -2,11 +2,11 @@ import React from "react";
 import "./vaina.css";
 
 import Carousel from "react-bootstrap/Carousel";
-import Image1 from "./a1.jpg";
-import Image2 from "./a2.jpg";
-import Image3 from "./a3.jpg";
-import Image4 from "./a4.jpg";
-import Image5 from "./a5.jpg";
+import Image1 from "./a11.png";
+import Image2 from "./a12.png";
+import Image3 from "./a13.png";
+import Image4 from "./a14.png";
+import Image5 from "./a15.png";
 // import Image6 from "./6ak6.jpg";
 
 function Vaina() {
