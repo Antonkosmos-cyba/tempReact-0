@@ -30,6 +30,11 @@ function Heder() {
             </Nav.Link>
             <Nav.Link>
               <CustLink to="/liza" className="no-underline text-h">
+                АкваСтар
+              </CustLink>
+            </Nav.Link>
+            <Nav.Link>
+              <CustLink to="/resume" className="no-underline text-h">
                 Сравнение
               </CustLink>
             </Nav.Link>

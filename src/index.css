@@ -36,3 +36,9 @@
   background-position: auto auto;
   background-size: cover;
 } */
+
+body {
+  background: linear-gradient(360deg, rgba(9, 9, 121, 1) 0%, rgba(14, 189, 221, 1) 50%, rgba(160, 239, 255, 1) 100%);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
