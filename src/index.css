@@ -28,6 +28,11 @@
   src: url(./assets/fonts/ofont.ru_Old\ Classic.ttf);
 }
 
+@font-face {
+  font-family: nastya;
+  src: url(./assets/fonts/ofont.ru_Deledda.ttf);
+}
+
 /* body {
   background-image: url(./assets/images/VID_20170805_161415.mp4);
 

@@ -8,13 +8,7 @@ function Resume() {
       <Table className="tab" bordered size="sm">
         <thead>
           <tr>
-            <th>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Asperiores laudantium ex dolores iure architecto quasi dolore
-              excepturi eligendi adipisci porro. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Eius molestias iure dicta deserunt
-              quidem reiciendis hic voluptate quod perspiciatis. Eveniet.
-            </th>
+            <th>Lorem ipsum dolor sit amet consectetur</th>
             <th>Last Name</th>
             <th>Username</th>
           </tr>
