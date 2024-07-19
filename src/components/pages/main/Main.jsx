@@ -19,7 +19,7 @@ function Main() {
               <div class="container">
                 <div class="row">
                   <div class="col-lg-12 text-center">
-                    <p>
+                    <p className="radi">
                       Мы рады сообщить Вам, что 10 июня 2024г. открылся аквапарк
                       "АкваСтар"
                       <br />

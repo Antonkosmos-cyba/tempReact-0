@@ -5,6 +5,12 @@ import "./resume.css";
 function Resume() {
   return (
     <div className="cont">
+      <p className="dif">
+        Аквапарки мира <br />
+        vs
+        <br />
+        "АкваСтар" на Старобельской!
+      </p>
       <Table className="tab" bordered size="sm">
         <thead>
           <tr>

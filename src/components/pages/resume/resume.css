@@ -3,3 +3,12 @@
   font-family: nastya;
   color: #07054e;
 }
+
+.dif {
+  font-size: 20px;
+  text-align: center;
+  font-family: nastya;
+  color: #0b2b83;
+  padding-top: 1rem;
+  line-height: 1;
+}
