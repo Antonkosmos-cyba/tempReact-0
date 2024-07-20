@@ -14,7 +14,7 @@ video {
 .radi {
   margin-top: 1.5em;
   margin-bottom: 1.5em;
-  font-size: 40px;
+  font-size: 25px;
   /* text-transform: uppercase; */
   background: linear-gradient(45deg, #062ceb 25%, #0625f2);
   -webkit-background-clip: text;

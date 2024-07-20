@@ -14,26 +14,60 @@ function Resume() {
       <Table className="tab" bordered size="sm">
         <thead>
           <tr>
-            <th>Lorem ipsum dolor sit amet consectetur</th>
-            <th>Last Name</th>
-            <th>Username</th>
+            <th>
+              <span className="tit">Качество</span>
+            </th>
+            <th>
+              <span className="tit">Аквапарк</span>
+            </th>
+            <th>
+              <span className="tit">АкваСтар</span>
+            </th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>Mark</td>
+            <td>Доступность</td>
             <td>Otto</td>
             <td>@mdo</td>
           </tr>
           <tr>
-            <td>Jacob</td>
+            <td>Затраты (на сеанс)</td>
             <td>Thornton</td>
             <td>@fat</td>
           </tr>
           <tr>
+            <td>Раздевалка</td>
+            <td>Thornton</td>
+            <td>@fat</td>
+          </tr>
+          <tr>
+            <td>Количество народа</td>
+            <td>Thornton</td>
+            <td>@fat</td>
+          </tr>
+          <tr>
+            <td className="deti">
+              Количесво детей, <br></br> писающих в бассейн
+            </td>
+            <td>Thornton</td>
+            <td>@fat</td>
+          </tr>
+          <tr>
+            <td>Питание</td>
+            <td>Thornton</td>
+            <td>@fat</td>
+          </tr>
+          <tr>
+            <td>Отдых</td>
+            <td>Thornton</td>
+            <td>@fat</td>
+          </tr>
+
+          {/* <tr>
             <td colSpan={2}>Larry the Bird</td>
             <td>@twitter</td>
-          </tr>
+          </tr> */}
         </tbody>
       </Table>
     </div>
