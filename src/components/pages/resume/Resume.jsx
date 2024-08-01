@@ -48,13 +48,19 @@ function Resume() {
           </tr>
           <tr>
             <td>Раздевалка</td>
-            <td>Thornton</td>
-            <td>@fat</td>
+            <td>
+              Чужие мужчины и женщины и <br />
+              капризные дети
+            </td>
+            <td>Только свои люди!</td>
           </tr>
           <tr>
             <td>Количество народа</td>
-            <td>Thornton</td>
-            <td>@fat</td>
+            <td>Вся россия!!!</td>
+            <td>
+              Свои друзья
+              <br /> (самые лучшие!)
+            </td>
           </tr>
           <tr>
             <td className="deti">
